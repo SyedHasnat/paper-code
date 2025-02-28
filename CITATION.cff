@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Your Project Name"
+authors:
+  - name: "Your Name"
+    affiliation: "Your Institution or Organization"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+date-released: "2024-02-28"
+version: "1.0.0"
+license: "MIT"
+repository-code: "https://github.com/yourusername/your-repo"
+doi: "10.5281/zenodo.xxxxxxx"
+keywords:
+  - software
+  - citation
+  - GitHub
+
+preferred-citation:
+  type: article
+  title: "Hybrid long short-term memory and bidirectional multichannel network cascaded with split convolution for short-term load forecasting"
+  authors:
+    - name: "Syed Muhammad Hasanat"
+    - name: "Irshad Ullah"
+    - name: "Khursheed Aurangzeb"
+    - name: "Muhammad Rizwan"
+    - name: "Musaed Alhussein"
+    - name: "Muhammad Shahid Anwar"
+  journal: "Engineering Applications of Artificial Intelligence"
+  volume: "147"
+  pages: "110268"
+  year: "2025"
+  issn: "0952-1976"
+  doi: "https://doi.org/10.1016/j.engappai.2025.110268"
+  url: "https://www.sciencedirect.com/science/article/pii/S0952197625002684"
